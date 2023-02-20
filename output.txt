@@ -1,0 +1,8 @@
+Deep Learning is a part of Machine Learning
+of:1
+is:1
+Learning:2
+Machine:1
+a:1
+part:1
+Deep:1
